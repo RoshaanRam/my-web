@@ -1,0 +1,23 @@
+body {
+    text-align:center;
+    background-color:darkturquoise;
+}
+h1 {
+    font-size: 80px;
+}
+img {
+    height: 400px;
+        width:350px;
+    padding: 80px;
+}
+#myCarousel img { 
+    height: 400px;
+    width: 350px;
+    
+}
+#myCarousel {
+    background-color: crimson;
+}
+#myCarousel p {
+    font-size: 50;
+}
